@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "userName": "Amith",
+      "userPhoneNumber": "12345678999",
+      "userEmail": "amith@gmail.com",
+      "userPassword": "123",
+      "userConfirmPassword": "123",
+      "id": 1
+    },
+    {
+      "userName": "Lakshmi venkatesh.J",
+      "userPhoneNumber": "9731617570",
+      "userEmail": "venkatesh@gmail.com",
+      "userPassword": "1234",
+      "userConfirmPassword": "1234",
+      "id": 2
+    },
+    {
+      "userName": "Akash",
+      "userPhoneNumber": "9876543210",
+      "userEmail": "akash@gmail.com",
+      "userPassword": "akash@123",
+      "userConfirmPassword": "akash@123",
+      "id": 3
+    }
+  ]
+}
